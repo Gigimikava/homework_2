@@ -1,16 +1,3 @@
-# class Rectangle:
-#   """es aris rectangle klasis dokumentacia"""
-
-#   def __init__(self ,sigrdze ,sigane):
-#     self.sigrdze = sigrdze
-#     self.sigane = sigane
-
-# rect_1 = Rectangle(2,3)
-# print(type(rect_1))
-# print(rect_1.sigane)
-# print(rect_1.sigrdze)
-# print(rect_1.__doc__)
-
 
 # class Rectangle:
 #   """ეს არის Rectangle კლასის დოკუმენტაცია"""
